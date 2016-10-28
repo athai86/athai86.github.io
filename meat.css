@@ -1,0 +1,11 @@
+h1{
+	color:#ff3399;	
+}
+.colors{
+	color:red;
+}
+ul{
+	border-style:solid;
+	border-color:black;
+	border-width:2px; 
+}
